@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   纯净茶与健康
 permalink: ':title/'
 baseurl: "/fresh" # the subpath of your site, e.g. /blog
-url: "artemsheludko.pw" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://charley332332.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
 facebook: #Add your Facebook
